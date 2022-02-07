@@ -9,7 +9,7 @@ Ce programme à été conçu avec streamlit de python et d'autre bibliotheques s
 
 # Comment executer?
 
-1. Telecharger le repertoire
+1. Telecharger le repertoire en executant en ligne de commande `git clone https://github.com/Mr-KAM/Streamlit-echantillonage-aleatoire.git `
 2. Lancer l'invite de commande à la racine du projet
 3. Executer la commande `streamlit run script` 
 
