@@ -13,7 +13,7 @@ Ce programme à été conçu avec streamlit de python et d'autre bibliotheques s
 2. Lancer l'invite de commande à la racine du projet
 3. Executer la commande `streamlit run script` 
 
-Vous pouvez aussi executer les **AgroStat.py**
+Vous pouvez aussi executer **AgroStat.py**
 
 # Utilisation
 1. Importer votre fichier **.xlsx** de base de données
